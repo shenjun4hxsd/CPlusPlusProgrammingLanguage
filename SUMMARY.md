@@ -1,7 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [简介](README.md)
 * [第1章 致读者](第1章 致读者/第1章 致读者.md)
     * [1.1 本书的结构](第1章 致读者/11-本书的结构.md)
         * 1.1.1 例子和参考
