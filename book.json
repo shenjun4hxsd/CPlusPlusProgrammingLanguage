@@ -1,0 +1,17 @@
+{
+    "plugins": [
+        "-search"
+    ],
+    "pluginsConfig": {
+        "fontsettings": {
+            "theme": "white",
+            "family": "sans",
+            "size": 2
+         }
+    },
+    "gitbook": ">=2.0.0",
+    "dirction": "沈军",
+    "title": "C++程序设计语言",
+    "language": "zh-cn",
+    "description": "天道酬勤"
+}
